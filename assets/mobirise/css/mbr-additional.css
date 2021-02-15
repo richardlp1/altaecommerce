@@ -1317,6 +1317,18 @@ a {
   background-repeat: no-repeat;
   box-shadow: 0px 0px 36px 2px #7826ff;
 }
+@media (max-width:900px){
+  .cid-soXKfepxBB .card-wrapper{
+    width: 80% !important;
+  }
+}
+@media (max-width:900px){
+  .cid-soXKfepxBB .espacoo{
+    margin-top: 22px;
+    margin-bottom: 22px;
+  }
+}
+
 .cid-soXKfepxBB .zoom {
   transition: transform 0.2s;
   margin: 0 auto;
