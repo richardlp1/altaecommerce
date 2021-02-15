@@ -696,6 +696,9 @@ a {
   background-repeat: no-repeat !important;
 }
 @media (max-width: 900px) {
+  .cid-soFoyD5nVg {
+    padding-bottom: 0rem !important;
+  }
   .cid-soFoyD5nVg .letrasperson {
     font-size: 43px !important;
   }
