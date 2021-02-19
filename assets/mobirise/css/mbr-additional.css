@@ -1727,6 +1727,7 @@ a {
 @media (max-width: 900px){
   .cid-soLtCVxDNS{
     padding-bottom: 5rem !important;
+    padding-top: 5rem !important;
   }
 }
 .cid-soLtCVxDNS .mbr-overlay {
@@ -1767,7 +1768,7 @@ a {
 }
 @media (max-width: 900px) {
   .cid-soLtCVxDNS .letrascertas {
-    font-size: 50px;
+    font-size: 42px;
   }
   .cid-soLtCVxDNS .letrasperson {
     font-size: 42px;
